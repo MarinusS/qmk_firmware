@@ -16,10 +16,10 @@ in by usb (not advised to plug in both simulatneously) and actually hold differe
 
 # Left side
 
-In info.json set bootmagic key to (0, 0):
+In info.json set bootmagic key to (0, 0) for 42 keys layout, (0, 1) for 36 keys layout:
 
 "bootmagic": {
-        "matrix": [0, 0],
+        "matrix": [0, 1],
     },
 
 Enter the bootloader in 2 ways:

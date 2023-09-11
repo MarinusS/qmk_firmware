@@ -20,6 +20,7 @@
 // #define NO_ACTION_ONESHOT
 
 #define RETRO_SHIFT 350
+#define AUTO_SHIFT_REPEAT
 
 #define EE_HANDS
 
